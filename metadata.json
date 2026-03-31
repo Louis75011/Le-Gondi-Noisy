@@ -1,0 +1,7 @@
+{
+  "name": "Le Gondi - Restaurant Italien",
+  "description": "Restaurant italien authentique à Noisy-le-Roi. Pizzas artisanales, pâtes fraîches et spécialités italiennes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
